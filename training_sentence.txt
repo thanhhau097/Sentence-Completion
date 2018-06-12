@@ -1,0 +1,172 @@
+Google  is working on a brand new design for the web version of Gmail
+Yesterday, I published screenshots of the new design
+TechCrunch’s tipster Chaim also discovered an interesting new feature in the new Gmail
+You’ll soon be able to send expiring emails.
+Working on an email service is hard as you have to be compatible with all sorts of email providers and email clients
+But it doesn’t seem to be stopping Google as the company is now evolving beyond the simple POP3/IMAP/SMTP protocols.
+Based on those screenshots, expiring emails work pretty much like expiring emails in ProtonMail
+After some time, the email becomes unreadable.
+In the compose screen, there’s a tiny lock icon called “confidential mode”
+It says that the recipient won’t be able to forward email content, copy and paste, download or print the email.
+You can configure the expiration date so that your email disappears after 1 week, 1 month, multiple years, etc
+You can also ask your recipient to confirm their identity with a passcode sent via text message
+This sounds like a great way to associate email addresses with phone numbers and improve Google’s ads
+(Update: a Google spokesperson reminded us that Google stopped scanning Gmail for ad personalization last year.)
+When our tipster clicked on “Learn more”, it opened Google’s help articles but the page was not found
+The feature isn’t ready for prime time just yet.
+On the recipient’s side, the person was using the existing version of Gmail and received a link to view the confidential email
+The recipient had to log into their Google account once again to view the content
+When viewing the confidential message, copy and paste as well as the print feature were disabled — it didn’t stop our tipster from taking a screenshot of the email though.
+It’s unclear if this feature is going to be compatible with non-Gmail users as the company asks you to confirm your Google account to view the confidential message
+It’s also unclear if the integration is going to work better in the future when everybody is using the new Gmail.
+For instance, when a ProtonMail user sends an expiring message to another ProtonMail user, it looks like a regular email in the inbox
+After the message expires, it is automatically deleted from the inbox and the sender’s outbox.
+In Gmail’s current implementation, it sounds like Google simply generates an email with a link
+The message behind the link disappears after a while, but not necessarily the intermediate email.
+It’s also worth noting that Google doesn’t mention end-to-end encryption anywhere
+A “confidential” message doesn’t have to be encrypted
+It’s likely that Google could still see the content of that message and comply with warrants
+Once again, Google said that the new Gmail is going to come out in a few weeks
+Confidential emails could be released at the same time or at a later date.
+Exit scammers run off with $660 million in ICO earnings
+John Biggs@johnbiggs / 18 hours ago
+A Vietnamese cryptocurrency company Modern Tech launched an ICO for its Pincoin token, raising $660 million from approximately 32,000 people
+The company first ran the Pincoin ICO, promising constant returns to investors, and then launched another token, iFan (a social network token for celebrities)
+Picoin investors first received cash from their investment and then the team began paying out rewards to Pincoin investors in iFan tokens.
+Then the team disappeared.
+This so-called exit scam could be that largest in recent memory and is also indicative of what’s to come in the ICO space
+The team of seven Vietnamese nationals seem to have left the country while scammed investors massed outside the company’s old headquarters.
+From Tuoi Tre news:
+In fact, the real mastermind behind these projects is a team of seven Vietnamese nationals, who have held different conferences in Hanoi, Ho Chi Minh City and even remote areas to lure investors.
+Investors have been told that they would enjoy a profit rate of 48 percent a month from their initial investment, and recoup all investments after four months
+People would also be rewarded with an eight percent commission for every new member they have introduced to the network.
+Pincoin was particularly unique in that it offered bonuses for bringing other people into the program, a tactic that might sound familiar
+The scammers paid out in cash until January when they began sending iFan tokens
+Then, last month, the team vacated their fancy offices leaving only an oddly well-made – if incomplete – website in its wake
+Taking a closer look at the site we find a model of obfuscation
+The mission – “The PIN Project is about building an online collaborative consumption platform for global community, base on principles of Sharing Economy, Blockchain Technology, and Crypto Currency” – seems on par with other pie-in-the-sky solutions but there is no mention of any founders or advisors and even their fancy, multi-lingual white paper, has no clear founder information
+In short, the team paid a great deal for a very nice website and convinced thousands of people it was legitimate.
+According to Viet Bao, a team consisting of Bui Thi My Ngoc, Ho Phu Ty, Ho Xuan Van, Luong Huynh Quoc Huy, Luu Trong Tuan, Nguyen Duc Trong, Nguyen Trung Hieu, and Vu Huu Loi led Pincoin and iFan from zero to multi-millions in a few months while claiming they were representing products from Singapore and India
+“To formalize the mode of operation, ifan and Pincoin authorized their company as legal representative in Vietnam with tax code 0314707223
+Modern Tech then held the event in Ho Chi Minh City Minh and Hanoi to raise capital from investors,” Viet Bao reporter.
+One interesting bit of chicanery is this screen from the iFan page
+Near the middle of the page we find information that the token is based on the Ethereum platform
+The page shows the price and rating of the cryptocurrency, suggesting that the Ethereum is directly related to the iFan price.
+And this popped up when I visited the project’s white paper:
+Again we find that the current, unregulated, ICO market is the most interesting system for parting fools from their money in recent history.
+he latest startups to participate in Techstars NYC have spent the past week pitching investors, journalists and the broader New York community.
+I swung by the accelerator’s new office a few days ago to meet each team
+In a two-hour period, I found myself discussing everything from cryptocurrency to kitchen sanitation to gene sequencing.
+Here’s what the companies are up to:
+Acculis is building collaborative software for construction
+One of the key features is a lightweight 3D model viewer that can be on accessed a phone, tablet or web browser
+By making it easier to bring this information into the field, the team is hoping to reduce delays and mistakes.
+Altru helps companies tap their employees for marketing and recruiting
+Potential hires can browse through videos of team members answering questions about what it’s like to work at the company, and they can also post questions of their own
+CEO Alykhan Rehmatullah suggested that this serves as an “antidote to Glassdoor,” allowing employees to share their authentic opinions in a more controlled and positive way.
+The Clear Cut
+The Clear Cut offers a concierge service for consumers to design their own diamond engagement rings
+The idea is to offer a personalized experience and product at significant savings compared to the big-name jewelry stores
+Eventually, the company could expand into other types of jewelry.
+kpiReady is building tools for startups and small businesses to track their most important metrics
+It’s offering data collection as well as visualization — so it should be quick and easy to create presentations and reports about how the business is doing
+Investors could also use this to track how the startups in their portfolio are doing.
+Kyso allows users to share their data science models
+That means data scientists have to spend less time building models from scratch every time they’re performing a new study
+It also includes tools for visualizing the results of those models.
+Loom Network is a blockchain infrastructure company
+The goal is to help developers create “Twitter- or World of Warcraft-scale apps on top of Ethereum,” with an initial focus on bringing game developers onto the platform.
+One Step Software is building patient monitoring software for sober group homes
+This can help family members keep track of how residents are doing
+And on an aggregate level, it helps the homes see which approaches are succeeding.
+PathSpot has built a device that can scan restaurant employees’ hands and detect the pathogens that can cause food-borne illness
+If an employee fails the scan, they’re asked to wash their hands and then try again
+And the scan itself should only take two seconds.
+Rootine uses customers’ genetic data to create a daily regimen of nutritional supplements
+These supplements are delivered in the form of “micro-beads” that can be added to foods like yogurt
+The company already has 1,500 paying customers in Europe and is looking to expand to the United States.
+Streamline Genomics aims to help clinicians and researchers use genomic sequencing
+CEO Josette-Renée Landry said that 40 percent of patients with cancer would have received more effective treatment if their tumor had been sequenced
+But while the cost of the actual sequencing has fallen, analyzing the “terabytes of data” remains a barrier
+So Streamline’s software handles that analysis.
+TypingDNA offers a new way to verify your identity, potentially replacing cumbersome two-factor identification methods like sending a temporary code to your phone
+Instead, it analyzes the unique patterns of how users type
+The company recently launched a Chrome extension.
+Vertoe helps you store your luggage by leaving it at nearby businesses
+If you’re checking out of an Airbnb, or if you’re heading to a concert or sporting event where you can’t bring a large suitcase, you can open up Vertoe, find a nearby location and pay just $5.95 per item per day
+The company currently has more than 70 partner locations across New York City.
+Waymo  has become the second company to apply for the newly-available permit to deploy autonomous vehicles without safety drivers on some California roads, the San Francisco Chronicle reports
+It would be putting its cars — well, minivans — on streets around Mountain View, where it already has an abundance of data.
+The company already has driverless driverless cars in play over in Phoenix, as it showed in a few promotional videos last month
+So this isn’t the first public demonstration of its confidence.
+California only just made it possible to grant permits allowing autonomous vehicles without safety drivers on April 2; one other company has applied for it in addition to Waymo, but it’s unclear which
+The new permit type also allows for vehicles lacking any kind of traditional manual controls, but for now the company is sticking with its modified Chrysler Pacificas
+Hey, they’re practical.
+The recent fatal collision of an Uber self-driving car with a pedestrian, plus another fatality in a Tesla operating in semi-autonomous mode, make this something of an awkward time to introduce vehicles to the road minus safety drivers
+Of course, it must be said that both of those cars had people behind the wheel at the time of their crashes.
+Assuming the permit is granted, Waymo’s vehicles will be limited to the Mountain View area, which makes sense — the company has been operating there essentially since its genesis as a research project within Google
+So there should be no shortage of detail in the data, and the local authorities will be familiar with the people necessary for handling any issues like accidents, permit problems, and so on.
+No details yet on what exactly the cars will be doing, or whether you’ll be able to ride in one
+Be patient.
+Android  Auto — Google’s system for powering your car’s dash display from your phone, and the company’s answer to Apple’s CarPlay — is going wireless
+You can leave your phone in your bag, and it’ll still be able to push your apps and content to your in-dash screen.
+Alas, there’s a catch: To get it all working wirelessly at this point, you’ll need to have some pretty specific gear.
+You’ll need the right phone (Pixel or Pixel XL, Pixel 2 or Pixel 2 XL, Nexus 5X or Nexus 6P) and the right head unit — and for now, that means one of just a handful of units announced by JVC/Kenwood earlier this year.
+The list of compatible devices will grow in time (Google  says to expect more “this year”) — but if you want wireless right this second, the options are quite limited.
+Yahoo Japan has gotten its hands on 40 percent of a Tokyo-based cryptocurrency exchange set to launch this fall.
+The investment, made in BitARG Exchange through a Yahoo Japan subsidiary gives the company a minority stake with BitARG parent company CMD Laboratories still maintaining 60 percent ownership of the exchange
+A source told CNBC the deal went for about 2-3 billion yen or around $18-28 million.
+In a translated announcement, BitARG said the exchange would benefit from the “service operation and security expertise of the Yahoo Japan Group, which will make it easier for customers to prepare for the start of the exchange service… and to improve the operation after the commencement.”
+Last month, Nikkei Asian Review reported the deal was in progress, further noting that Yahoo Japan planned to use BitARG’s technology to launch its own cryptocurrency exchange in 2019.
+In an internal memo to employees, Apple  threatened severe consequences for leaking confidential company information – reminding staff that those who leak can lose their jobs, have difficult finding future employment, and even get arrested
+Last year, Apple claimed to have busted 29 leakers, 12 of whom were arrested.
+The memo itself was leaked, and its content was published by Bloomberg this afternoon.
+Apple has always cultivated a culture of confidentially about its work, as a means of maintaining a competitive advantage over the competition.
+Given how large Apple has grown over the years – the memo says there are “135,000 people” working there – it’s become more difficult to keep things under wraps
+By the time a new iPhone launches, for example, people already know what to expect
+That can give rivals a head start on catching up with Apple, ahead of an actual public unveiling of the device
+Leaks can also impact sales of current devices, as consumers hold off on buying as they know something better is soon to arrive.
+Apple more recently has had problems with leaked iOS source code, as well as leaked details about the iPhone 8 and X, Apple Watch Series 3, Apple TV 4K, HomePod, and more
+And that was just in 2017.
+The new memo is not the first time Apple has tried to plug its leaks
+Last year, the company held a meeting with employees where it discussed how it plans to prevent leaks, talked about how leakers were caught, and answered employees’ questions.
+That meeting was secretly recorded and leaked to the press too.
+In reality, some leaks can be harder to track or stop
+A company-wide meeting or email, for instance, could be leaked by anyone.
+The new memo begins by informing Apple employees that the person who leaked details about Apple’s software roadmap earlier this year was caught and fired last month:
+Last month, Apple caught and fired the employee responsible for leaking details from an internal, confidential meeting about Apple’s software roadmap
+Hundreds of software engineers were in attendance, and thousands more within the organization received details of its proceedings
+One person betrayed their trust.
+The employee who leaked the meeting to a reporter later told Apple investigators that he did it because he thought he wouldn’t be discovered
+But people who leak — whether they’re Apple employees, contractors or suppliers — do get caught and they’re getting caught faster than ever.
+The memo then goes on to stress how damaging leaks are to the company itself, those who worked on a project, and other employees.
+It reminds employees that when they’re approached by press, analysts and bloggers they’re “getting played.”
+The establishment of a very us-versus-them culture when dealing with outsiders is notable because it means Apple employees may fear becoming whistleblowers
+Employees will likely also fear leaking to correct inaccurate information being passed around publicly
+Today, there are reports that Apple’s own comms teams won’t respond to, when asked by press – unless the report reaches a critical mass, or worse – is unflattering to Apple.
+But unlike at other companies where a PM or staffer may reach out to privately correctly a detail or give background outside of official channels, Apple staff would be fired for crossing that line.
+The memo also points to more examples of how Apple’s internal security has caught people who believed they could get away with it – including the person who leaked the link to the gold master of iOS 11, and those who leaked within the supply chain.
+It concludes by sharing the news that 12 of the leakers in 2017 were arrested.
+“Leakers do not simply lose their jobs at Apple
+In some cases, they face jail time and massive fines for network intrusion and theft of trade secrets both classified as federal crimes,” the memo read
+“These people not only lose their jobs, they can face extreme difficulty finding employment elsewhere.”
+There’s a certain kind of person who will find language like this a challenge
+But the majority will likely take heed.
+The memo was published as an internal company blog post.
+The full memo can be read on Bloomberg’s site.
+Tesla  is one of the more interesting companies for Wall Street that had an interesting couple of months this year — and it seems even tweets from Elon Musk, who said that the company will be profitable in the back half of the year, may be enough to swing its stock.
+The Tesla and SpaceX founder sent a tweet very early this morning that the company would be profitable and cash-flow positive in the third and fourth quarter this year
+Tesla is known for setting ambitious targets and forecasts, especially as it looks to ramp up Model 3 production to around 2,500 vehicles per week
+Musk said he took direct control of Model 3 production earlier this month in a note to employees, also sent out at around 3 a.m
+pacific time
+Tesla’s shares were up slightly, gaining around 2% in trading today.
+Tesla saw a small bump in its stock throughout the day
+While it could be for a variety of reasons, Musk’s data point may have offered a small amount of clarity (and optimism) around whether the company will be able to eventually turn a profit
+The tweet was fired off as a response to a story by The Economist that said the company may have to raise additional capital at some point, according to banking firm Jeffries
+(It was also quite snarky.
+On Tesla’s last call to discuss the company’s quarterly results with Wall Street analysts, Musk said that the company would begin generating “positive quarterly operating income on a sustained basis,” and said he was “cautiously optimistic” that the company would be GAAP profitable
+Musk said the company wanted to hit a production target of 5,000 Model 3 vehicles per week at some point in 2018, though did not give a specific time frame
+The tweet, while fired off as a response to a story by The Economist, appears to offer another small data point as to when it might happen.
+Earlier this month, Tesla fell back behind Ford in terms of its market cap as some pressure has hit the stock
+Tesla has had to address a fatal crash involving its autopilot, in addition to a voluntary recall of 123,000 Model S vehicles
+There is some skepticism around whether Tesla will hit its production targets from Wall Street (making cars is hard, it seems).
