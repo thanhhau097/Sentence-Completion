@@ -5,9 +5,8 @@
 5. App được code trên nền tảng iOS được chứa trong thư mục SolveEnglish. App chưa hoàn thiện, chỉ mới hoàn thiện phần giao diện và thao tác cơ bản, chỉ có một màn hình, chưa deploy model của tensorflow vào app do chưa có thời gian.
 6. Tài liệu liên quan nằm trong thư mục documentation.
 7. Các file check_data.js và crawl_data.js là file viết bằng javascript để tải dữ liệu test mẫu về. Các bạn có thể tự tạo dữ liệu test mẫu từ corpus đã tải về. Đáp án của dữ liệu mẫu nằm ở file arr_ans.npy
-8. Các file training mẫu nằm ở project2_bow.ipynb và project2_RNN.ipynb
+8. Các file training mẫu nằm ở continuous_bag_of_words.ipynb và recurrent_neural_network.ipynb
 9. File xử lý dữ liệu ở file preprocessing_data.ipynb
-10. File báo cáo nằm ở thư mục Báo cáo project 2
 
 
 NOTE: đây chỉ là bản mẫu nghiên cứu trong thời gian ngắn, nếu có gì sai sót mong người đọc thông cảm :D Mọi thắc mắc vui lòng liên hệ tác giả: thanhhau097@gmail.com
